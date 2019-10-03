@@ -1,0 +1,5 @@
+23:17:55.369 [main] DEBUG AutomateWeb.AllLinks - selenium python option is loaded successfully
+23:17:55.535 [main] DEBUG AutomateWeb.AllLinks - selenium python option is clicked successfully
+23:17:55.616 [main] DEBUG AutomateWeb.AllLinks - selenium python option is loaded successfully
+23:18:29.304 [main] DEBUG AutomateWeb.AllLinks - Link Name is successfully Matched
+23:18:31.024 [main] DEBUG AutomateWeb.AllLinks - linked is successfully clicked and Page Title is successfully matched

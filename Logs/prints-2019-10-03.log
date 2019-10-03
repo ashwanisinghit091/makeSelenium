@@ -1,0 +1,6 @@
+23:16:00.284 [main] DEBUG AutomateWeb.AllLinks - Link Name is successfully Matched
+23:16:01.792 [main] DEBUG AutomateWeb.AllLinks - linked is successfully clicked and Page Title is successfully matched
+23:17:54.880 [main] DEBUG AutomateWeb.AllLinks - Selenium java is successfully loaded
+23:17:55.002 [main] DEBUG AutomateWeb.AllLinks - Selenium java option is clicked  successfully loaded
+23:17:55.210 [main] DEBUG AutomateWeb.AllLinks - protactor options are successfully loaded
+23:17:55.282 [main] INFO  AutomateWeb.AllLinks - No. of links successfully printed
