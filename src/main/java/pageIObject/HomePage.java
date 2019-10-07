@@ -48,6 +48,8 @@ public static WebDriver Driver;
 	public static  List<WebElement> Links(WebElement wb) {
 		return 	wb.findElements(Links);}
 	
+	
+	
 	public static  WebElement Search() {
 		return 	Driver.findElement(Search);}
 	

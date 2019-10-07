@@ -6,4 +6,14 @@
       <class name="AutomateWeb.AllLinks"/>
     </classes>
   </test> <!-- Default test -->
+  <test name="Default test(failed)">
+    <classes>
+      <class name="AutomateWeb.AllLinks">
+        <methods>
+          <include name="Invoke_Browser"/>
+          <include name="Search"/>
+        </methods>
+      </class> <!-- AutomateWeb.AllLinks -->
+    </classes>
+  </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

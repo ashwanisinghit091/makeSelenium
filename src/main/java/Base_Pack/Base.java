@@ -10,6 +10,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.BeforeMethod;
 
+import utility_pack.Wait;
+
 public class Base {
 	public static  WebDriver Driver;
 	@BeforeMethod
@@ -21,7 +23,7 @@ public class Base {
 		Driver.get("https://www.seleniumeasy.com/");
 		Driver.manage().window().maximize();
 		
-		Driver.manage().timeouts().implicitlyWait(3000, TimeUnit.MILLISECONDS);
+		
 		
 		
 		

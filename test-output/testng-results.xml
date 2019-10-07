@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="47077" started-at="2019-10-03T17:47:44Z" finished-at="2019-10-03T17:48:31Z">
+  <suite name="Suite" duration-ms="37049" started-at="2019-10-06T05:24:45Z" finished-at="2019-10-06T05:25:22Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="47077" started-at="2019-10-03T17:47:44Z" finished-at="2019-10-03T17:48:31Z">
+    <test name="Test" duration-ms="37049" started-at="2019-10-06T05:24:45Z" finished-at="2019-10-06T05:25:22Z">
       <class name="AutomateWeb.AllLinks">
-        <test-method status="PASS" signature="Invoke_Browser()[pri:0, instance:AutomateWeb.AllLinks@327514f]" name="Invoke_Browser" is-config="true" duration-ms="10068" started-at="2019-10-03T23:17:44Z" finished-at="2019-10-03T23:17:54Z">
+        <test-method status="PASS" signature="Invoke_Browser()[pri:0, instance:AutomateWeb.AllLinks@22ff4249]" name="Invoke_Browser" is-config="true" duration-ms="9348" started-at="2019-10-06T10:54:45Z" finished-at="2019-10-06T10:54:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Invoke_Browser -->
-        <test-method status="PASS" signature="FindLinks()[pri:0, instance:AutomateWeb.AllLinks@327514f]" name="FindLinks" duration-ms="1042" started-at="2019-10-03T23:17:54Z" finished-at="2019-10-03T23:17:55Z">
+        <test-method status="PASS" signature="FindLinks()[pri:0, instance:AutomateWeb.AllLinks@22ff4249]" name="FindLinks" duration-ms="813" started-at="2019-10-06T10:54:54Z" finished-at="2019-10-06T10:54:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FindLinks -->
-        <test-method status="PASS" signature="Invoke_Browser()[pri:0, instance:AutomateWeb.AllLinks@327514f]" name="Invoke_Browser" is-config="true" duration-ms="19381" started-at="2019-10-03T23:17:56Z" finished-at="2019-10-03T23:18:15Z">
+        <test-method status="PASS" signature="Invoke_Browser()[pri:0, instance:AutomateWeb.AllLinks@22ff4249]" name="Invoke_Browser" is-config="true" duration-ms="9840" started-at="2019-10-06T10:54:56Z" finished-at="2019-10-06T10:55:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Invoke_Browser -->
-        <test-method status="PASS" signature="Search()[pri:0, instance:AutomateWeb.AllLinks@327514f]" name="Search" duration-ms="15605" started-at="2019-10-03T23:18:15Z" finished-at="2019-10-03T23:18:31Z">
+        <test-method status="PASS" signature="Search()[pri:0, instance:AutomateWeb.AllLinks@22ff4249]" name="Search" duration-ms="15970" started-at="2019-10-06T10:55:05Z" finished-at="2019-10-06T10:55:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Search -->

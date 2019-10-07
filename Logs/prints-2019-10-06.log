@@ -1,0 +1,6 @@
+10:54:55.203 [main] DEBUG AutomateWeb.AllLinks - Selenium java option is clicked  successfully loaded
+10:54:55.346 [main] DEBUG AutomateWeb.AllLinks - protactor options are successfully loaded
+10:54:55.391 [main] INFO  AutomateWeb.AllLinks - No. of links successfully printed
+10:54:55.460 [main] DEBUG AutomateWeb.AllLinks - selenium python option is loaded successfully
+10:54:55.628 [main] DEBUG AutomateWeb.AllLinks - selenium python option is clicked successfully
+10:54:55.702 [main] DEBUG AutomateWeb.AllLinks - selenium python option is loaded successfully
